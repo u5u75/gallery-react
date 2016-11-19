@@ -1,7 +1,7 @@
 
-ES5 
-yeoman版本：1.8.5 
-react-webpack版本：1.2.11 
+ES5 	
+yeoman版本：1.8.5 	
+react-webpack版本：1.2.11 	
 
 
 
